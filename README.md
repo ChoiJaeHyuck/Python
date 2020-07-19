@@ -1,2 +1,2 @@
 # Python
-파이썬 data
+# 연습
